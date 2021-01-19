@@ -16,3 +16,14 @@
 *.rar
 *.tar
 *.zip
+
+# ficheros log#
+###############
+
+*.log
+public.log
+
+#carpeta private#
+################
+
+/private
